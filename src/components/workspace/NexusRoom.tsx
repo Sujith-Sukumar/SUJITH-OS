@@ -12,7 +12,7 @@ interface NexusRoomProps {
 const DOORS = [
   {
     id: 'about',
-    label: 'ABOUT MEeeee',
+    label: 'ABOUT ME',
     sub: 'Architect Identity',
     preview: '4-State 3D Core',
     color: '#f59e0b',
